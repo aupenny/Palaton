@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WS>
+  <Version>1.6.1.1</Version>
+  <Solution>
+    <Project>
+    </Project>
+  </Solution>
+  <File>
+    <File Name="Palaton_StrT" Type="wsCSD" Key="PALATON_STRT" />
+    <File Name="Palaton_LZ" Type="wsREV" Key="PALATON_LZ" />
+    <File Name="Palaton_SZ" Type="wsSML" Key="PALATON_SZ" />
+    <File Name="Palaton_dG" Type="wsGRD" Key="PALATON_DG" />
+    <File Name="Palaton_1pol" Type="wsSMD" Key="PALATON_1POL" />
+    <File Name="Palaton_Plan" Type="wsELD" Key="PALATON_PLAN">
+      <File Path="Palaton_Plan.0001.wsELD" Key="0001" />
+      <File Path="Palaton_Plan.0002.wsELD" Key="0002" />
+      <File Path="Palaton_Plan.0003.wsELD" Key="0003" />
+      <File Path="Palaton_Plan.0004.wsELD" Key="0004" />
+      <File Path="Palaton_Plan.0005.wsELD" Key="0005" />
+      <File Path="Palaton_Plan.0006.wsELD" Key="0006" />
+      <File Path="Palaton_Plan.0007.wsELD" Key="0007" />
+      <File Path="Palaton_Plan.0008.wsELD" Key="0008" />
+    </File>
+    <File Name="Palaton_CAB" Type="wsCBD" Key="PALATON_CAB" />
+    <File Name="Palaton_Inst" Type="wsARD" Key="PALATON_INST" />
+    <File Name="Palaton_LOzn" Type="wsRFL" Key="PALATON_LOZN" />
+    <File Name="Palaton_PO" Type="wsRFC" Key="PALATON_PO" />
+    <File Name="Palaton_Mat" Type="wsMAL" Key="PALATON_MAT" />
+    <File Name="Palaton_Sterowniki" Type="wsPLC" Key="PALATON_STEROWNIKI" />
+    <File Name="Palaton_LZac" Type="wsTEC" Key="PALATON_LZAC" />
+    <File Name="Palaton_PZac" Type="wsGTC" Key="PALATON_PZAC" />
+    <File Name="Palaton_Zlacza" Type="wsPGC" Key="PALATON_ZLACZA" />
+    <File Name="Palaton_LKab" Type="wsCBL" Key="PALATON_LKAB" />
+    <File Name="Palaton_PKab" Type="wsCBC" Key="PALATON_PKAB" />
+    <File Name="Palaton_Pol" Type="wsCNL" Key="PALATON_POL" />
+  </File>
+</WS>
